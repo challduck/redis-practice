@@ -3,7 +3,7 @@ spring:
     redis:
       host: localhost
       port: 6379
-      username: default
+#      username: default
       password: systempass
   application:
     name: redis
